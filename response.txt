@@ -1,0 +1,15 @@
+Okay, let's find that information for you.
+
+You're asking about finding the `video` and `audio` tags, which is definitely covered in our course!
+
+Based on the subtitle chunks provided, the main content about these tags is all in **Video 10**, titled **"Video, Audio & Media in HTML"**.
+
+The subtitle chunks for Video 10 cover topics like:
+*   Using the `video` and `audio` tags.
+*   Attributes of the `video` tag.
+*   Copying the `video` tag.
+*   How to put audio and media.
+
+Since the user asked "where i can get the audio and video tags", and the context shows this question is related to the course content in Video 10, I can provide a helpful answer about the video number and timestamp.
+
+You should look at **Video 10**. The relevant discussion starts around the **62.48 second mark** and continues through the video. The exact point where the tags are introduced isn't pinpointed in the provided subtitles, but the entire video is about them. Watching from the beginning of Video 10 should give you the full context.
